@@ -1,4 +1,4 @@
-# Aswin — Portfolio
+# Aswin Kanigalpula — Portfolio
 
 Personal portfolio built with Next.js 16, Tailwind CSS v4 and Motion. Live at https://aswin-portfolio-sable.vercel.app
 
